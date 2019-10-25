@@ -1,0 +1,12 @@
+com\zr\service\impl\PermissionService.class
+com\zr\service\impl\UserServiceImpl.class
+com\zr\service\impl\RoleServiceImpl.class
+com\zr\service\IUserService.class
+com\zr\service\IRoleService.class
+com\zr\service\impl\SysLogServiceImpl.class
+com\zr\service\IProductService.class
+com\zr\service\IPermissionService.class
+com\zr\service\ISysLogService.class
+com\zr\service\impl\OrdersServiceImpl.class
+com\zr\service\impl\ProductServiceImpl.class
+com\zr\service\IOrdersService.class

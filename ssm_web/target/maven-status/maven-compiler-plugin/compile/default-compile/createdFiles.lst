@@ -1,0 +1,7 @@
+com\zr\controller\PermissionController.class
+com\zr\controller\LogAop.class
+com\zr\controller\UserController.class
+com\zr\controller\ProductController.class
+com\zr\controller\RoleController.class
+com\zr\controller\OrdersController.class
+com\zr\controller\SysLogController.class
